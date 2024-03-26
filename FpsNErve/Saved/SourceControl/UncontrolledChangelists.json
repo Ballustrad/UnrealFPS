@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Projet actif/FpsNErve/Content/L_FirstMap.umap",
+				"C:/Projet actif/FpsNErve/Content/Player/BP_Gamemode.uasset",
+				"C:/Projet actif/FpsNErve/Content/Player/BP_Player.uasset",
+				"C:/Projet actif/FpsNErve/Content/Player/Inputs/IMC_Input.uasset",
+				"C:/Projet actif/FpsNErve/Content/Player/Inputs/IA_Move.uasset",
+				"C:/Projet actif/FpsNErve/Content/Player/Inputs/IA_Look.uasset",
+				"C:/Projet actif/FpsNErve/Content/Player/Bp_PlayerController.uasset",
+				"C:/Projet actif/FpsNErve/Content/Player/Inputs/IA_Jump.uasset",
+				"C:/Projet actif/FpsNErve/Content/Player/Inputs/IA_Dash.uasset",
+				"C:/Projet actif/FpsNErve/Content/GPE/BP_JumpPAd.uasset"
+			]
+		}
+	]
+}
