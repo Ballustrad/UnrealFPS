@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Projets E-artSup/2023-2024/Unreal/UnrealFPS/FpsNErve/Content/Player/BP_Player.uasset",
+				"C:/Projets E-artSup/2023-2024/Unreal/UnrealFPS/FpsNErve/Content/L_FirstMap.umap",
+				"C:/Projets E-artSup/2023-2024/Unreal/UnrealFPS/FpsNErve/Content/Player/Inputs/IMC_Input.uasset",
+				"C:/Projets E-artSup/2023-2024/Unreal/UnrealFPS/FpsNErve/Content/Weapons/BP_Gun.uasset",
 				"C:/Projet actif/FpsNErve/Content/L_FirstMap.umap",
 				"C:/Projet actif/FpsNErve/Content/Player/BP_Gamemode.uasset",
 				"C:/Projet actif/FpsNErve/Content/Player/BP_Player.uasset",
